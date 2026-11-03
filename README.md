@@ -8,7 +8,7 @@
 
 CNN 기반 차트 신호와 금융 지표를 결합해 포트폴리오를 분석한 팀 프로젝트입니다. 상장폐지 수익률 반영 문제를 제시하고 데이터와 분석 흐름을 검토·통합했습니다. 팀원과 AI의 기여도 구분해 기록합니다.
 
-[IFE-Project 저장소](https://github.com/DuZzang/IFE-Project) · 현재 비공개: 접근 권한이 있는 사용자만 볼 수 있습니다.
+[IFE-Project 공개 코드 보기](https://github.com/DuZzang/IFE-Project-public) · 연구 데이터는 포함하지 않습니다.
 
 ### 산업공학 종합설계 — 3D 프린터 언더필 탐지
 
